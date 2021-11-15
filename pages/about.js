@@ -1,4 +1,4 @@
-import Layout from '../components/Layout';
+import Layout from '@/components/Layout';
 
 function AboutPage() {
   return (
@@ -7,7 +7,7 @@ function AboutPage() {
       <p>This is an app to find DJ and other music events</p>
       <p>Version: 1.0.0</p>
     </Layout>
-  )
+  );
 }
 
-export default AboutPage
+export default AboutPage;
